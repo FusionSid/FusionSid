@@ -14,6 +14,7 @@
 
 ### Fav Projects - That are on this github page (I don't put everything on github)
 - Discord Bot
+- Voice Assistant
 - Flask Website
 - Fire Safety
 
