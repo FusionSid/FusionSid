@@ -18,6 +18,8 @@ Website: https://fusionsid.github.io/FusionSids-Website/
 - Discord Bot
 - Voice Assistant
 - My Website
+- Bustop Database/Api
+- Reddit 2 Insta Meme Automation
 
 
 ### Languages I want to learn but procrastinate on learning
