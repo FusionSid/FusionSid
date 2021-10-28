@@ -4,7 +4,7 @@
 
 #### My name is Siddhesh
 
-Website: https://fusionsid.github.io/FusionSids-Website/
+Website: https://fusionsid.xyz/
 
 - 🔭 I’m currently working on: A discord bot called: Why
 - 🌱 I’m currently learning: nothing
