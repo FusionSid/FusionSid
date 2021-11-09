@@ -27,7 +27,6 @@ Website: https://fusionsid.xyz/
 - Java
 - Dart (for flutter)
 - Javascript
-- Swift
 
 ### Coding Journey
 - Started 2016/2017 - First language HTML | 2nd language - Swift
