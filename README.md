@@ -6,23 +6,19 @@
 
 Website: https://fusionsid.xyz/
 
-- 🔭 I’m currently working on: A discord bot called: Why
-- 🌱 I’m currently learning: nothing
 - 🤔 I’m looking for help with: Getting a life
-- 💬 Ask me about: Nothing please
 - 📫 How to reach me: ```siddheshadsv@icloud.com``` or ```022 580 9731```
-- 😄 Pronouns: Nobody cares about my f*cking pronouns
 - ⚡ Fun fact: I like rickrolling people
 
 ### Fav Projects - That are on this github page (I don't put everything on github)
-- Discord Bot
+- Why Bot
 - Voice Assistant
 - My Website
 - Bustop Database
 - Reddit 2 Insta Meme Automation
 
 
-### Languages I want to learn but procrastinate on learning
+### Languages I want to learn but procrastinate on learning (not in order)
 - C#
 - Java
 - Dart (for flutter)
