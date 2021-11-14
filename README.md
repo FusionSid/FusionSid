@@ -7,6 +7,7 @@
 Website: https://fusionsid.xyz/
 
 - 🤔 I’m looking for help with: Getting a life
+- 👀 I’m interested in Python, Minecraft, Discord/Discord Bots and Rick Astley
 - 📫 How to reach me: ```siddheshadsv@icloud.com``` or ```022 580 9731```
 - ⚡ Fun fact: I like rickrolling people
 
