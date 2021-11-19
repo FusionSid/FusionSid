@@ -25,6 +25,8 @@ Website: https://fusionsid.xyz/
 - Dart (for flutter)
 - Javascript
 
+[![FusionSid's GitHub stats](https://github-readme-stats.vercel.app/api?username=FusionSid)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Coding Journey
 - Started 2016/2017 - First language HTML | 2nd language - Swift
 I then took a big break, Didnt do much code from 2018 - 2020
