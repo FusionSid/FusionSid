@@ -34,3 +34,5 @@ In that time I pretty much forgot everything
 I used to be pretty good with HTML, CSS, Javascript and ok with swift but now i can barely code a website without opening google 69 times and looking for help.
 Lockdown 2020/21 - Lots of free time so I restarted my coding journey.
 And since then ive been doing python cause its fun and im too lazy/scared to move on.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FusionSid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
