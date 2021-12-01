@@ -1,8 +1,6 @@
 # FusionSid
 
-### Hi there 👋
-
-#### My name is Siddhesh
+#### My name is Siddhesh and i'm 14
 
 Website: https://fusionsid.xyz/
 
