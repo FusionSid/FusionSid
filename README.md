@@ -6,14 +6,13 @@ Website: https://fusionsid.xyz/
 
 - 🤔 I’m looking for help with: Getting a life
 - 👀 I’m interested in Python, Minecraft, Discord/Discord Bots and Rick Astley
-- 📫 How to reach me: ```siddheshadsv@icloud.com``` or ```022 580 9731```
+- 📫 How to reach me: ```siddheshadsv@icloud.com``` or ```+64 022 580 9731```
 - ⚡ Fun fact: I like rickrolling people
 
 ### Favourite Projects:
 [Why Bot](https://github.com/FusionSid/Why-Bot)
 [Reddit 2 Insta](https://github.com/FusionSid/Reddit2Insta-Meme-Uploader)
 [URL Shortener](https://github.com/FusionSid/Url-Shortner-App)
-[Voice Assistant](https://github.com/FusionSid/Url-Shortner-App)
 
 ### Languages I want to learn but procrastinate on learning (not in order)
 - C#
