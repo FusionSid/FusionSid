@@ -11,7 +11,9 @@ Website: https://fusionsid.xyz/
 
 ### Favourite Projects:
 [Why Bot](https://github.com/FusionSid/Why-Bot)
+
 [Reddit 2 Insta](https://github.com/FusionSid/Reddit2Insta-Meme-Uploader)
+
 [URL Shortener](https://github.com/FusionSid/Url-Shortner-App)
 
 ### Languages I want to learn but procrastinate on learning (not in order)
