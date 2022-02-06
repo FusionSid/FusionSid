@@ -2,9 +2,15 @@
 
 #### My name is Siddhesh and i'm 15
 
+-------
+
 Website: https://fusionsid.xyz/
+
 Email:  siddhesh@fusionsid.xyz
+
 Discord: FusionSid#3645
+
+-------
 
 - 🤔 I’m looking for help with: Getting a life
 - 👀 I’m interested in Python, Minecraft, Discord/Discord Bots and Rick Astley
