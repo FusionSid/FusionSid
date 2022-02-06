@@ -8,9 +8,7 @@ Website: https://fusionsid.xyz/
 - 👀 I’m interested in Python, Minecraft, Discord/Discord Bots and Rick Astley
 - 📫 How to reach me: ```siddheshadsv@icloud.com``` or ```+64 022 580 9731```
 - ⚡ Fun fact: I like rickrolling people
-
 -------
-
 ### Favourite Projects:
 [Why Bot](https://github.com/FusionSid/Why-Bot)
 
@@ -19,7 +17,8 @@ Website: https://fusionsid.xyz/
 [URL Shortener](https://github.com/FusionSid/Url-Shortner-App)
 
 [Server Link](https://github.com/FusionSid/Server-Link)
-
+-------
+![FusionSid's GitHub stats](https://github-readme-stats.vercel.app/api?username=FusionSid&count_private=true&custom_title=FusionSid%20-%20Never%20Gonna%20Give%20You%20Up&title_color=FFFFFF&text_color=5865F2&bg_color=23272A&border_color=23272A&border_radius=25)
 -------
 ### Languages I want to learn but procrastinate on learning (not in order)
 - C#
@@ -27,4 +26,3 @@ Website: https://fusionsid.xyz/
 - Dart (for flutter)
 - Javascript
 -------
-[![FusionSid's GitHub stats](https://github-readme-stats.vercel.app/api?username=FusionSid&count_private=true&custom_title=FusionSid%20-%20Never%20Gonna%20Give%20You%20Up&title_color=FFFFFF&text_color=5865F2&bg_color=23272A&border_color=23272A&border_radius=25)
