@@ -9,6 +9,8 @@ Website: https://fusionsid.xyz/
 - 📫 How to reach me: ```siddheshadsv@icloud.com``` or ```+64 022 580 9731```
 - ⚡ Fun fact: I like rickrolling people
 
+-------
+
 ### Favourite Projects:
 [Why Bot](https://github.com/FusionSid/Why-Bot)
 
@@ -16,18 +18,13 @@ Website: https://fusionsid.xyz/
 
 [URL Shortener](https://github.com/FusionSid/Url-Shortner-App)
 
+[Server Link](https://github.com/FusionSid/Server-Link)
+
+-------
 ### Languages I want to learn but procrastinate on learning (not in order)
 - C#
 - Java
 - Dart (for flutter)
 - Javascript
-
-[![FusionSid's GitHub stats](https://github-readme-stats.vercel.app/api?username=FusionSid)](https://github.com/anuraghazra/github-readme-stats)
-
-### Coding Journey
-- Started 2016/2017 - First language HTML | 2nd language - Swift
-I then took a big break, Didnt do much code from 2018 - 2020
-In that time I pretty much forgot everything
-I used to be pretty good with HTML, CSS, Javascript and ok with swift but now i can barely code a website without opening google 69 times and looking for help.
-Lockdown 2021 - Lots of free time so I restarted my coding journey.
-And since then ive been doing python cause its fun and im too lazy/scared to move on.
+-------
+[![FusionSid's GitHub stats](https://github-readme-stats.vercel.app/api?username=FusionSid&count_private=true&custom_title=FusionSid%20-%20Never%20Gonna%20Give%20You%20Up&title_color=FFFFFF&text_color=5865F2&bg_color=23272A&border_color=23272A&border_radius=25)
