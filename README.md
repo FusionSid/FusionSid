@@ -41,4 +41,4 @@ Discord: FusionSid#3645
 
 -------
 
-[![](https://discord.c99.nl/widget/theme-3/624076054969188363.png)](https://discord.com/api/oauth2/authorize?client_id=896932646846885898&permissions=8&scope=bot%20applications.commands)
+
