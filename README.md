@@ -10,7 +10,7 @@
 [<img align="left" alt="cws | Reddit" width="22px" src="https://external-preview.redd.it/iDdntscPf-nfWKqzHRGFmhVxZm4hZgaKe5oyFws-yzA.png?auto=webp&s=38648ef0dc2c3fce76d5e1d8639234d8da0152b2"/>][reddit]
 [<img align="left" alt="cws | Discord Server" width="22px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-0-2048x2048.png"/>][discord]
 
-\u200b
+
 
 -------
 
