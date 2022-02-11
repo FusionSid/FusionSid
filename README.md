@@ -45,9 +45,8 @@ Discord: FusionSid#3645
 [<img align="left" alt="cws | Twitter" width="22px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" />][twitter]
 [<img align="left" alt="cws | Discord Bot" width="22px" src="https://cdn.discordapp.com/avatars/896932646846885898/77d575b77e9fe053512d4a13cd43e60a.png?size=256" />][discord_bot]
 [<img align="left" alt="cws | Discord Server" width="22px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-0-2048x2048.png/>][discord]
-[<img align="left" alt="cws | Reddit" width="22px" src="https://external-preview.redd.it/iDdntscPf-nfWKqzHRGFmhVxZm4hZgaKe5oyFws-yzA.png?auto=webp&s=38648ef0dc2c3fce76d5e1d8639234d8da0152b2" />][reddit]
+[<img align="left" alt="cws | Reddit" width="22px" src="https://external-preview.redd.it/iDdntscPf-nfWKqzHRGFmhVxZm4hZgaKe5oyFws-yzA.png?auto=webp&s=38648ef0dc2c3fce76d5e1d8639234d8da0152b2"/>][reddit]
 
-[website]: https://github.com/FusionSid
 [twitter]: https://twitter.com/Fusion_Sid
 [youtube]: https://www.youtube.com/channel/UC8jJyY7_Hik7ShugCagxk9A
 [discord_bot]: https://discord.com/api/oauth2/authorize?client_id=896932646846885898&permissions=8&scope=bot%20applications.commands
