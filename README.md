@@ -50,6 +50,7 @@ Discord: FusionSid#3645
 [website]: https://github.com/FusionSid
 [twitter]: https://twitter.com/Fusion_Sid
 [youtube]: https://www.youtube.com/channel/UC8jJyY7_Hik7ShugCagxk9A
+[discord_bot]: https://discord.com/api/oauth2/authorize?client_id=896932646846885898&permissions=8&scope=bot%20applications.commands
 [discord]: https://discord.gg/qBYVxeeUec
 [reddit]: https://www.reddit.com/u/FusionSid
 
