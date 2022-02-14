@@ -2,8 +2,6 @@
 
 #### My name is Siddhesh and i'm 15
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=624076054969188363)
-
 -------
 
 Website: https://fusionsid.xyz/
@@ -58,3 +56,5 @@ Discord: FusionSid#3645
 [discord_bot]: https://discord.com/api/oauth2/authorize?client_id=896932646846885898&permissions=8&scope=bot%20applications.commands
 [discord]: https://discord.gg/qBYVxeeUec
 [reddit]: https://www.reddit.com/u/FusionSid
+
+![My Discord](https://discord-readme-badge.vercel.app/api?id=624076054969188363)
