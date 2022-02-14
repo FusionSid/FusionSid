@@ -2,6 +2,8 @@
 
 #### My name is Siddhesh and i'm 15
 
+![My Discord](https://discord-readme-badge.vercel.app/api?id=<your discord id>)
+
 -------
 
 Website: https://fusionsid.xyz/
