@@ -6,6 +6,8 @@
 
 Website: https://fusionsid.xyz/
 
+API: https://fusionsidapi.herokuapp.com/
+
 Email:  siddhesh@fusionsid.xyz
 
 Discord: FusionSid#3645
