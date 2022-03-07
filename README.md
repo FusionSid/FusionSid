@@ -25,13 +25,13 @@ Discord: FusionSid#3645
 ### Favourite Projects:
 [Why Bot](https://github.com/FusionSid/Why-Bot)
 
+[FusionSidsAPI](https://github.com/FusionSid/FusionSidsAPI) / [FusionSidAPI.py](https://github.com/FusionSid/FusionSidAPI.py)
+
 [Image/Meme Generator API](https://github.com/FusionSid/ImageGeneratorAPI)
 
 [Reddit 2 Insta](https://github.com/FusionSid/Reddit2Insta-Meme-Uploader)
 
 [URL Shortener](https://github.com/FusionSid/Url-Shortner-App)
-
-[Server Link](https://github.com/FusionSid/Server-Link)
 
 -------
 
