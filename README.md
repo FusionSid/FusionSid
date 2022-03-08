@@ -4,7 +4,7 @@
 
 -------
 
-Website: https://fusionsid.xyz/
+Website: https://fusionsid.xyz/ (Under Construction)
 
 API: https://fusionsidapi.herokuapp.com/
 
@@ -14,28 +14,24 @@ Discord: FusionSid#3645
 
 -------
 
-<img align="right" width="100" height="100" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg">
+<img align="right" width="100" height="70" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg">
 
 - 🤔 I’m looking for help with: Getting a life
 - 👀 I’m interested in Python, Minecraft, Discord/Discord Bots and Rick Astley
 - ⚡ Fun fact: I like rickrolling people
 
 -------
-
-![FusionSid's GitHub stats](https://github-readme-stats.vercel.app/api?username=FusionSid&count_private=true&custom_title=FusionSid%20-%20Never%20Gonna%20Give%20You%20Up&title_color=FFFFFF&text_color=5865F2&bg_color=23272A&border_color=23272A&border_radius=25)
-
--------
-
 ### Favourite Projects:
-[Why Bot](https://github.com/FusionSid/Why-Bot)
+- [Why Bot](https://github.com/FusionSid/Why-Bot)
 
-[FusionSidsAPI](https://github.com/FusionSid/FusionSidsAPI)
+- [FusionSidsAPI](https://github.com/FusionSid/FusionSidsAPI)
 
-[FusionSidAPI.py](https://github.com/FusionSid/FusionSidAPI.py)
+- [FusionSidAPI.py](https://github.com/FusionSid/FusionSidAPI.py)
 
-[Reddit 2 Insta](https://github.com/FusionSid/Reddit2Insta-Meme-Uploader)
+- [Reddit 2 Insta](https://github.com/FusionSid/Reddit2Insta-Meme-Uploader)
 
-[URL Shortener](https://github.com/FusionSid/Url-Shortner-App)
+- [URL Shortener](https://github.com/FusionSid/Url-Shortner-App)
+
 
 -------
 
@@ -47,12 +43,17 @@ Discord: FusionSid#3645
 
 -------
 
-[<img align="center" alt="cws | Discord Bot" width="22px" src="https://cdn.discordapp.com/avatars/896932646846885898/77d575b77e9fe053512d4a13cd43e60a.png?size=256" />][discord_bot]
-[<img align="center" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg" />][youtube]
-[<img align="center" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" />][twitter]
-[<img align="center" alt="Reddit" width="22px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reddit.svg"/>][reddit]
-[<img align="center" alt="Discord Server" width="22px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg"/>][discord]
-[<img align="center" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/>][instagram]
+
+![FusionSid's GitHub stats](https://github-readme-stats.vercel.app/api?username=FusionSid&count_private=true&custom_title=FusionSid%20-%20Never%20Gonna%20Give%20You%20Up&title_color=FFFFFF&text_color=5865F2&bg_color=23272A&border_color=23272A&border_radius=25)
+
+-------
+
+[<img align="center" alt="Discord Bot" width="50px" src="https://cdn.discordapp.com/avatars/896932646846885898/40600e222073eacf80776d99923fa238.png?size=2048" />][discord_bot]
+[<img align="center" alt="YouTube" width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg" />][youtube]
+[<img align="center" alt="Twitter" width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" />][twitter]
+[<img align="center" alt="Reddit" width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reddit.svg"/>][reddit]
+[<img align="center" alt="Discord Server" width="60px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg"/>][discord]
+[<img align="center" alt="Instagram" width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/>][instagram]
 
 -------
 
