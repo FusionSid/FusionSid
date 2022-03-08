@@ -1,6 +1,6 @@
 # FusionSid
 
-#### My name is Siddhesh and i'm 15
+#### My name is Siddhesh and i'm 15 
 
 -------
 
@@ -13,6 +13,8 @@ Email:  siddhesh@fusionsid.xyz
 Discord: FusionSid#3645
 
 -------
+
+<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg">
 
 - 🤔 I’m looking for help with: Getting a life
 - 👀 I’m interested in Python, Minecraft, Discord/Discord Bots and Rick Astley
@@ -50,6 +52,7 @@ Discord: FusionSid#3645
 [<img align="left" alt="cws | Twitter" width="22px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" />][twitter]
 [<img align="left" alt="cws | Reddit" width="22px" src="https://external-preview.redd.it/iDdntscPf-nfWKqzHRGFmhVxZm4hZgaKe5oyFws-yzA.png?auto=webp&s=38648ef0dc2c3fce76d5e1d8639234d8da0152b2"/>][reddit]
 [<img align="left" alt="cws | Discord Server" width="22px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-0-2048x2048.png"/>][discord]
+[<img align="left" alt="cws | Discord Server" width="22px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/>][instagram]
 
 `Never Gonna Give You Up`
 
@@ -60,5 +63,6 @@ Discord: FusionSid#3645
 [discord_bot]: https://discord.com/api/oauth2/authorize?client_id=896932646846885898&permissions=8&scope=bot%20applications.commands
 [discord]: https://discord.gg/qBYVxeeUec
 [reddit]: https://www.reddit.com/u/FusionSid
+[instagram]: https://www.instagram.com/FusionSid/
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=624076054969188363)
