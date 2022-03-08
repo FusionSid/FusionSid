@@ -27,9 +27,9 @@ Discord: FusionSid#3645
 ### Favourite Projects:
 [Why Bot](https://github.com/FusionSid/Why-Bot)
 
-[FusionSidsAPI](https://github.com/FusionSid/FusionSidsAPI) / [FusionSidAPI.py](https://github.com/FusionSid/FusionSidAPI.py)
+[FusionSidsAPI](https://github.com/FusionSid/FusionSidsAPI)
 
-[Image/Meme Generator API](https://github.com/FusionSid/ImageGeneratorAPI)
+[FusionSidAPI.py](https://github.com/FusionSid/FusionSidAPI.py)
 
 [Reddit 2 Insta](https://github.com/FusionSid/Reddit2Insta-Meme-Uploader)
 
