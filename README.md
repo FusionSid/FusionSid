@@ -22,24 +22,24 @@ Discord: FusionSid#3645
 
 -------
 ### Favourite Projects:
-- [Why Bot](https://github.com/FusionSid/Why-Bot)
+- [Why Bot](https://github.com/FusionSid/Why-Bot) | Multipurpose discord bot (idk **why** i made this)
 
-- [FusionSidsAPI](https://github.com/FusionSid/FusionSidsAPI)
+- [FusionSidsAPI](https://github.com/FusionSid/FusionSidsAPI) | Multipurpose api (mainly for meme/image generation)
 
-- [FusionSidAPI.py](https://github.com/FusionSid/FusionSidAPI.py)
+- [FusionSidAPI.py](https://github.com/FusionSid/FusionSidAPI.py) | API wrapper to use FusionSidsAPI in python
 
-- [Reddit 2 Insta](https://github.com/FusionSid/Reddit2Insta-Meme-Uploader)
+- [Reddit 2 Insta](https://github.com/FusionSid/Reddit2Insta-Meme-Uploader) | Uploads reddit memes to [instagram](https://www.instagram.com/never_gonnagive/)
 
-- [URL Shortener](https://github.com/FusionSid/Url-Shortner-App)
+- [File Host](https://github.com/FusionSid/Filehost) | Lets you upload files which are stored and can be retrieved later
 
 
 -------
 
-### Languages I want to learn but procrastinate on learning (not in order)
+### Languages I want to learn but procrastinate on learning
+
 - C#
-- Java
-- Dart / Flutter
-- Javascript
+- - Javascript
+- - Dart / Flutter
 
 -------
 
