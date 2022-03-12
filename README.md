@@ -66,3 +66,8 @@ Discord: FusionSid#3645
 
 
 [![Discord](https://discordimage.herokuapp.com/api/image/?user_id=624076054969188363&rounded_corners=True)](https://discordimage.herokuapp.com/docs)
+
+---
+
+[Above image from my API](https://discordimage.herokuapp.com/docs) | [Source](https://github.com/FusionSid/DiscordPresenceAPI)
+
