@@ -6,7 +6,7 @@
 
 Website: https://fusionsid.xyz/ (Under Construction)
 
-API: https://fusionsidapi.herokuapp.com/
+API: http://api.fusionsid.xyz/docs
 
 Email:  siddheshadsv@icloud.com
 
