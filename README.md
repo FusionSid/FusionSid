@@ -73,4 +73,4 @@ Discord: FusionSid#3645
 
 ---
 
-[![https://activity-graph.herokuapp.com/graph?username=FusionSid&bg_color=23272A&color=5663F7&line=FFFFFF&point=5663F7&custom_title=FusionSid%27s%20Contribution%20Graph&hide_border=true]](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+[![Graph](https://activity-graph.herokuapp.com/graph?username=FusionSid&bg_color=23272A&color=5663F7&line=FFFFFF&point=5663F7&custom_title=FusionSid%27s%20Contribution%20Graph&hide_border=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
