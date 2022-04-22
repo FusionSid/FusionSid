@@ -4,11 +4,11 @@
 
 -------
 
-Website: https://fusionsid.xyz/ (Under Construction)
+<!-- Website: https://fusionsid.xyz/ (Under Construction) -->
 
-API: https://api.fusionsid.xyz/docs
+API: https://api.fusionsid.xyz/docs | 
 
-Email:  siddheshadsv@icloud.com
+Email: siddheshadsv@icloud.com or siddhesh@fusionsid.xyz
 
 Discord: FusionSid#3645
 
@@ -30,7 +30,7 @@ Discord: FusionSid#3645
 
 - [Reddit 2 Insta](https://github.com/FusionSid/Reddit2Insta-Meme-Uploader) | Uploads reddit memes to [my instagram](https://www.instagram.com/never_gonnagive/)
 
-- [File Host](https://github.com/FusionSid/Filehost) | Lets you upload files which are stored and can be retrieved later
+- [File Host](https://github.com/FusionSid/Filehost) | Lets you upload files which are stored and can be retrieved later [LINK](https://whyapi.fusionsid.xyz/docs)
 
 
 -------
