@@ -6,7 +6,7 @@
 
 <!-- Website: https://fusionsid.xyz/ (Under Construction) -->
 
-API: https://api.fusionsid.xyz/docs | 
+API: https://api.fusionsid.xyz/docs | https://whyapi.fusionsid.xyz/docs
 
 Email: siddheshadsv@icloud.com or siddhesh@fusionsid.xyz
 
