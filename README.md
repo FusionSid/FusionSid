@@ -6,7 +6,7 @@
 
 <!-- Website: https://fusionsid.xyz/ (Under Construction) -->
 
-API: https://api.fusionsid.xyz/docs | https://whyapi.fusionsid.xyz/docs
+https://api.fusionsid.xyz/docs | https://whyapi.fusionsid.xyz/docs
 
 Email: siddheshadsv@icloud.com or siddhesh@fusionsid.xyz
 
@@ -30,16 +30,17 @@ Discord: FusionSid#3645
 
 - [Reddit 2 Insta](https://github.com/FusionSid/Reddit2Insta-Meme-Uploader) | Uploads reddit memes to [my instagram](https://www.instagram.com/never_gonnagive/)
 
-- [File Host](https://github.com/FusionSid/Filehost) | Lets you upload files which are stored and can be retrieved later [LINK](https://whyapi.fusionsid.xyz/docs)
+- [Why-Bot-API](https://github.com/FusionSid/Why-Bot-API) | Lets you upload files which are stored and can be retrieved later [LINK](https://whyapi.fusionsid.xyz/docs), Lets you use why bot | Lets your run ricklang code
 
 
 -------
 
-### Languages I want to learn but procrastinate on learning
+### Languages I want to learn / Am learning
 
+- Rust
+- C
 - Javascript
 - C#
-- Rust
 
 -------
 
@@ -48,11 +49,7 @@ Discord: FusionSid#3645
 
 -------
 
-[![Discord](https://readme-stats.herokuapp.com/api/image/?user_id=624076054969188363&rounded_corners=True)](https://readme-stats.herokuapp.com/api/image/?user_id=624076054969188363&rounded_corners=True)
-
----
-
-[Above image from my API](https://readme-stats.herokuapp.com/docs) | [Source](https://github.com/FusionSid/DiscordStatusAPI)
+[![Discord](https://readme-stats.herokuapp.com/api/image/?user_id=624076054969188363&rounded_corners=True)](https://readme-stats.herokuapp.com/docs)
 
 ---
 
@@ -74,3 +71,11 @@ Discord: FusionSid#3645
 [discord]: https://discord.gg/qBYVxeeUec
 [reddit]: https://www.reddit.com/u/FusionSid
 [instagram]: https://www.instagram.com/FusionSid/
+
+---
+
+```fix
+take me to ur heart
+    i just wanna tell u how im feeling "Thanks for looking at my profile :)\n"
+say goodbye
+```
