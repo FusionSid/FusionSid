@@ -49,7 +49,7 @@ Discord: FusionSid#3645
 
 -------
 
-[![Discord](https://readme-stats.herokuapp.com/api/image/?user_id=624076054969188363&rounded_corners=True)](https://readme-stats.herokuapp.com/docs)
+[![Discord](https://api.fusionsid.xyz/api/discord/image?user_id=624076054969188363)]
 
 ---
 
