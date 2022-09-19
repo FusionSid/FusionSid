@@ -49,7 +49,7 @@ Discord: FusionSid#3645
 
 -------
 
-[![Discord](https://api.fusionsid.xyz/api/discord/image?user_id=624076054969188363)]
+[![Discord](https://api.fusionsid.xyz/api/discord/image?user_id=624076054969188363)]()
 
 ---
 
