@@ -47,7 +47,7 @@ Discord: FusionSid#3645
 
 <img align="right" src="https://api.fusionsid.xyz/api/discord/image?user_id=624076054969188363&resize_width=510">
 
-[![Graph](https://activity-graph.herokuapp.com/graph?username=FusionSid&bg_color=23272A&color=5663F7&line=FFFFFF&point=5663F7&custom_title=FusionSid%27s%20Contribution%20Graph&hide_border=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) 
+[![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=FusionSid&bg_color=23272A&color=5663F7&line=FFFFFF&point=5663F7&custom_title=FusionSid%27s%20Contribution%20Graph&hide_border=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) 
 
 -------
 
