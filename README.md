@@ -1,10 +1,10 @@
 # FusionSid
 
-#### Hello, my name is Siddhesh, i'm 16 and love to code!
+#### Hey, my name is Siddhesh, i'm 16 and love to code!
 
 -------
 
-Website: https://fusionsid.xyz/ (Still todo)
+Website: https://fusionsid.xyz/ (currently still a WIP)
 
 API: https://api.fusionsid.xyz/docs
 
@@ -22,30 +22,30 @@ Discord: FusionSid#3645
 
 -------
 ### Favourite Projects:
-- [Why Bot](https://github.com/FusionSid/Why-Bot) | Multi-purpose discord bot i still need to [rewrite](https://github.com/FusionSid/Why-Bot/tree/rewrite-the-rewrite) (idk **why** I made this)
+- [Why Bot](https://github.com/FusionSid/Why-Bot) | Multi-purpose discord bot I still need to [rewrite](https://github.com/FusionSid/Why-Bot/tree/rewrite-the-rewrite) (idk **why** I made this)
 
-- [FusionSidAPI](https://github.com/FusionSid/FusionSidAPI) | multi-purpose REST API that can do temp file hosting, meme/image generation, text convertion, code execution and much more
+- [FusionSidAPI](https://github.com/FusionSid/FusionSidAPI) | multi-purpose REST API that can do temp file hosting, meme/image generation, text conversion, code execution and much more
 
-- [FusionSidAPI.py](https://github.com/FusionSid/FusionSidAPI.py) | API wrapper to use FusionSidsAPI in python (needs to be updated to v2)
+- [FusionSidAPI.py](https://github.com/FusionSid/FusionSidAPI.py) | API wrapper to use FusionSidsAPI in python (DEPRICATED: needs to be updated to API v2)
 
-- [Reddit 2 Insta](https://github.com/FusionSid/Reddit2Insta-Meme-Uploader) | Uploads reddit memes to [my instagram](https://www.instagram.com/never_gonnagive/)
+- [Reddit 2 Insta](https://github.com/FusionSid/Reddit2Insta-Meme-Uploader) | Scrapes reddit for memes and uploads them to [my instagram](https://www.instagram.com/never_gonnagive/)
 
-- [Untitled Chat](https://github.com/Untitled-Chat-App) A chatting application i made for a school project. Uses FastAPI for the backend API and Electron for the frontend app.
+- [Untitled Chat](https://github.com/Untitled-Chat-App) A chatting application I originally made for a school project. (currently in the process of rewriting and using different technoligies + adding way more features)
 
 -------
 
 ### Languages I want to learn / am currently learning
 
-- Javascript (so i can get into web dev)
-- C (& C++ so i can die of brain damage)
-- Rust 
+- Javascript (so i can get into web dev) & Typescript (because js sucks)
+- C (& C++ because I may die of brain damage but as least my code will be FAST AS FUCK)
+- Rust (Because rust - everyone likes rust)
 - Basic Assembly (so i can finish my [programming language](https://github.com/FusionSid/Moyai-Lang) and make RickRollOS)
 
 -------
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=FusionSid&count_private=true&custom_title=FusionSid%20-%20Never%20Gonna%20Give%20You%20Up&title_color=FFFFFF&text_color=5865F2&bg_color=23272A&border_color=23272A&border_radius=25&card_width=450">
+<img src="https://github-readme-stats.vercel.app/api?username=FusionSid&count_private=true&custom_title=FusionSid%20-%20Never%20Gonna%20Give%20You%20Up&title_color=FFFFFF&text_color=5865F2&bg_color=23272A&border_color=23272A&border_radius=25&card_width=450">
 
-<img align="right" src="https://api.fusionsid.xyz/api/discord/image?user_id=624076054969188363&resize_width=510">
+<img src="https://api.fusionsid.xyz/api/discord/image?user_id=624076054969188363&resize_width=510">
 
 [![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=FusionSid&bg_color=23272A&color=5663F7&line=FFFFFF&point=5663F7&custom_title=FusionSid%27s%20Contribution%20Graph&hide_border=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) 
 
