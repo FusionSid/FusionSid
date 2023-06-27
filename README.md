@@ -10,7 +10,7 @@ API: https://api.fusionsid.xyz/docs
 
 Email: siddheshadsv@icloud.com or siddhesh@fusionsid.xyz
 
-Discord: FusionSid#3645
+Discord: `fusionsid` (previously: `FusionSid#3645`)
 
 -------
 
