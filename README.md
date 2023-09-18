@@ -4,11 +4,11 @@
 
 -------
 
-Website: https://fusionsid.xyz/ (currently still a WIP)
+Website: https://fusionsid.com/ (currently still a WIP)
 
-API: https://api.fusionsid.xyz/docs
+API: https://api.fusionsid.com/docs
 
-Email: siddheshadsv@icloud.com or siddhesh@fusionsid.xyz
+Email: siddheshadsv@icloud.com or siddhesh@fusionsid.com
 
 Discord: `fusionsid` (previously: `FusionSid#3645`)
 
@@ -45,7 +45,7 @@ Discord: `fusionsid` (previously: `FusionSid#3645`)
 
 <img src="https://github-readme-stats.vercel.app/api?username=FusionSid&count_private=true&custom_title=FusionSid%20-%20Never%20Gonna%20Give%20You%20Up&title_color=FFFFFF&text_color=5865F2&bg_color=23272A&border_color=23272A&border_radius=25&card_width=450">
 
-<img src="https://api.fusionsid.xyz/api/discord/image?user_id=624076054969188363&resize_width=510">
+<img src="https://api.fusionsid.com/api/discord/image?user_id=624076054969188363&resize_width=510">
 
 -------
 
