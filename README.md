@@ -1,6 +1,6 @@
 # FusionSid
 
-#### Hey, my name is Siddhesh, i'm 16 and love to code!
+#### Hey, my name is Siddhesh, i'm 17 and love to code!
 
 -------
 
@@ -36,9 +36,9 @@ Discord: `fusionsid` (previously: `FusionSid#3645`)
 
 ### Languages I want to learn / am currently learning
 
-- Javascript (so i can get into web dev) & Typescript (because js sucks)
 - C (& C++ because I may die of brain damage but as least my code will be FAST AS FUCK)
 - Rust (Because rust - everyone likes rust)
+- Go so I can make webservers with ALL the speed
 - Basic Assembly (so i can finish my [programming language](https://github.com/FusionSid/Moyai-Lang) and make RickRollOS)
 
 -------
