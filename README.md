@@ -17,7 +17,7 @@ Discord: `fusionsid` (previously: `FusionSid#3645`)
 <img align="right" width="100" height="70" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg">
 
 - 🤔 I’m looking for help with: Getting a life
-- 👀 I’m interested in Programming (my favourite language is python), Minecraft and Rick Astley.
+- 👀 I’m interested in Programming (my favourite language is Python), Minecraft and Rick Astley.
 - ⚡ Fun fact: I like rickrolling people
 
 -------
@@ -36,10 +36,10 @@ Discord: `fusionsid` (previously: `FusionSid#3645`)
 
 ### Languages I want to learn / am currently learning
 
-- C (& C++ because I may die of brain damage but as least my code will be FAST AS FUCK)
-- Rust (Because rust - everyone likes rust)
-- Go so I can make webservers with ALL the speed
-- Basic Assembly (so i can finish my [programming language](https://github.com/FusionSid/Moyai-Lang) and make RickRollOS)
+- C (& C++ because I may die of brain damage but at least my code will be **FAST AS FUCK**)
+- Rust (Because rust 🦀 - everyone likes rust)
+- Go, so I can make webservers with ALL the speed
+- Basic Assembly (so i can finish my [programming language](https://github.com/FusionSid/Moyai-Lang) and make _RickRollOS™_)
 
 -------
 
