@@ -1,69 +1,75 @@
 # FusionSid
 
-#### Hey, my name is Siddhesh, i'm 18 and love to code!
+#### Hey! my name is Siddhesh, I'm 18 and I love to code!
 
--------
+---
 
-Website: https://fusionsid.com/ (currently still a WIP)
+**Website**: [fusionsid.com](https://fusionsid.com) _(Currently waiting on time/motivation to finish/remake it 😭)_
 
-API: https://api.fusionsid.com/docs
+**Email**: siddheshadsv@icloud.com / siddhesh@fusionsid.com
 
-Email: siddheshadsv@icloud.com or siddhesh@fusionsid.com
+**Discord**: `fusionsid` _(previously `FusionSid#3645`)_
 
-Discord: `fusionsid` (previously: `FusionSid#3645`)
+---
 
--------
+### About Me:
 
 <img align="right" width="100" height="70" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg">
 
-- 🤔 I’m looking for help with: Getting a life
-- 👀 I’m interested in Programming (my favourite language is Python), Minecraft and Rick Astley.
-- ⚡ Fun fact: I like rickrolling people
+- 🤔 Looking for help with: Getting a life
+- 👀 Interests: Programming, Minecraft and Rick Astley  
+- 🐍 Favourite Language: **Python**
+- ⚡ Fun Fact: I love to [rickroll](https://www.youtube.com/watch?v=dQw4w9WgXcQ) people!
 
--------
+---
+
 ### Favourite Projects:
-- [Why Bot](https://github.com/FusionSid/Why-Bot) | Multi-purpose discord bot I still need to [rewrite](https://github.com/FusionSid/Why-Bot/tree/rewrite-the-rewrite) (idk **why** I made this)
+- **[Why Bot](https://github.com/FusionSid/Why-Bot)**  
+  Why bot is an open source, multi-purpose verified discord bot with over 100+ commands made to enhance your discord experience. This was my first major project and the one that really got me into programming. I started to rewrite it but lost motivation halfway through, however I believe that the [why bot rewrite code](https://github.com/FusionSid/Why-Bot/tree/rewrite-the-rewrite) is some of the best code i've ever written.
 
-- [FusionSidAPI](https://github.com/FusionSid/FusionSidAPI) | multi-purpose REST API that can do temp file hosting, meme/image generation, text conversion, code execution and much more
+- **[SpaceFinder](https://github.com/Space-Finder/)**  
+  SpaceFinder allows teachers to book their class locations more easily and allows the locations to be displayed on the school screens. This project was made for my school, and I worked with administration to create the project. I also got an NZQA technology scholarship/award for this project.
 
-- [FusionSidAPI.py](https://github.com/FusionSid/FusionSidAPI.py) | API wrapper to use FusionSidsAPI in python (DEPRICATED: needs to be updated to API v2)
+- **[ByteQuest](https://github.com/Byte-Quest-Website)**  
+  A programming problem website (essentially like LeetCode) including a remote code execution engine to run code in a sandbox, and an online IDE including autocomplete and syntax highlighting.
 
-- [Reddit 2 Insta](https://github.com/FusionSid/Reddit2Insta-Meme-Uploader) | Scrapes reddit for memes and uploads them to [my instagram](https://www.instagram.com/never_gonnagive/)
+- **[Password1](https://github.com/st22209/Password-Manager)**  
+  An open-source, encrypted, safe and secure password manager to manage all your passwords in a secure place
 
-- [Untitled Chat](https://github.com/Untitled-Chat-App) A chatting application I originally made for a school project. (currently in the process of rewriting and using different technoligies + adding way more features)
+- **[FusionSidAPI](https://github.com/FusionSid/FusionSidAPI)**  
+  multi-purpose REST API that can do temporary file hosting, meme/image generation, text conversion, code execution and much more, I also make an API wrapper: [FusionSidAPI.py](https://github.com/FusionSid/FusionSidAPI.py) (DEPRECATED: needs to be updated to API v2)
 
--------
+- **[Untitled Chat](https://github.com/Untitled-Chat-App)**  
+  An end-to-end encrypted chatting application I originally made for a school project.
 
-### Languages I want to learn / am currently learning
+- **[Reddit 2 Insta](https://github.com/FusionSid/Reddit2Insta-Meme-Uploader)**  
+  Scrapes Reddit for memes and uploads them to [my instagram](https://www.instagram.com/never_gonnagive/)
+
+---
+
+### Languages I want to learn / am currently learning:
 
 - C (& C++ because I may die of brain damage but at least my code will be **FAST AS FUCK**)
 - Rust (Because rust 🦀 - everyone likes rust)
 - Go, so I can make webservers with ALL the speed
-- Basic Assembly (so i can finish my [programming language](https://github.com/FusionSid/Moyai-Lang) and make _RickRollOS™_)
+- Basic Assembly (so I can finish my [programming language](https://github.com/FusionSid/Moyai-Lang) and make _RickRollOS™_)
 
--------
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=FusionSid&count_private=true&custom_title=FusionSid%20-%20Never%20Gonna%20Give%20You%20Up&title_color=FFFFFF&text_color=5865F2&bg_color=23272A&border_color=23272A&border_radius=25&card_width=450">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=FusionSid&count_private=true&custom_title=FusionSid%20-%20Never%20Gonna%20Give%20You%20Up&title_color=FFFFFF&text_color=5865F2&bg_color=23272A&border_color=23272A&border_radius=25&card_width=450">
 
-<img src="https://api.fusionsid.com/api/discord/image?user_id=624076054969188363&resize_width=510">
+[<img src="https://api.fusionsid.com/api/discord/image?user_id=624076054969188363&resize_width=510">](https://api.fusionsid.com/api/discord/image?user_id=624076054969188363&resize_width=510)<br/>
+<sub>^ This image was generated using my own API: [FusionSid API](https://api.fusionsid.com) | [API v2](https://api2.fusionsid.com) ^</sub> -->
 
--------
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=FusionSid&count_private=true&custom_title=FusionSid%20-%20Never%20Gonna%20Give%20You%20Up&title_color=FFFFFF&text_color=5865F2&bg_color=23272A&border_color=23272A&border_radius=25&card_width=510" style="max-width: 100%; width: 450px;" />
+  <a href="https://api.fusionsid.com/api/discord/image?user_id=624076054969188363&resize_width=510">
+    <img src="https://api.fusionsid.com/api/discord/image?user_id=624076054969188363&resize_width=510" style="max-width: 100%; width: 450px;" />
+  </a>
+</div>
 
+<sub>The discord status image was generated using my own API: [FusionSid API](https://api.fusionsid.com) | [API v2](https://api2.fusionsid.com)</sub>
 
-[<img align="center" alt="Discord Bot" width="50px" src="https://cdn.discordapp.com/avatars/896932646846885898/40600e222073eacf80776d99923fa238.png?size=2048" />][discord_bot]
-[<img align="center" alt="YouTube" width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg" />][youtube]
-[<img align="center" alt="Twitter" width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" />][twitter]
-[<img align="center" alt="Reddit" width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reddit.svg"/>][reddit]
-[<img align="center" alt="Discord Server" width="60px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg"/>][discord]
-[<img align="center" alt="Instagram" width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/>][instagram]
-
-
-[twitter]: https://twitter.com/Fusion_Sid
-[youtube]: https://www.youtube.com/channel/UC8jJyY7_Hik7ShugCagxk9A
-[discord_bot]: https://discord.com/api/oauth2/authorize?client_id=896932646846885898&permissions=8&scope=bot%20applications.commands
-[discord]: https://discord.gg/qBYVxeeUec
-[reddit]: https://www.reddit.com/u/FusionSid
-[instagram]: https://www.instagram.com/FusionSid/
 
 ---
 
