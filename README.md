@@ -47,15 +47,6 @@
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="https://api.fusionsid.com/api/discord/image?user_id=624076054969188363&resize_width=510" style="max-width: 100%; width: 450px;" />
-  </a>
-</div>
-
-> <sub>The above discord status image was generated using my own API: [FusionSid API](https://api.fusionsid.com) | [API v2](https://api2.fusionsid.com)</sub>
-
----
-
 ```py
 take me to ur heart
     i just wanna tell u how im feeling "Thanks for checking out my github profile :)\n"
